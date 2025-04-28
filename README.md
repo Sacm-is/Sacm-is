@@ -2,7 +2,7 @@
 
 ## Sobre mim  
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCuritiba (3º semestre).  
-- 🌱 Atualmente aprendendo sobre **ciberseguração**, **desenvolvimento de sites** e me aprofundando em **gestão de projetos**.  
+- 🌱 Atualmente aprendendo sobre **cibersegurança**, **desenvolvimento Web** e me aprofundando em **gestão de projetos**.  
 - 🧑‍💻 Experiência prévia na área ambiental, onde atuei com campanhas e consultoria ambiental.  
 - 💻 Apaixonada por tecnologia e pelo potencial de inovação para resolver problemas reais e transformar o mundo!  
 
